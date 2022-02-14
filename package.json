@@ -1,4 +1,6 @@
 {
+  "name": "qidao-core",
+  "version": "0.5.0",
   "dependencies": {
     "@openzeppelin/contracts": "^2.5.0",
     "@poanet/solidity-flattener": "^3.0.6",
